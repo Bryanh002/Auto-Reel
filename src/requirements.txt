@@ -1,0 +1,6 @@
+moviepy==1.0.3
+python-dotenv
+mutagen
+elevenlabs
+openai>=1.30.0
+Pillow<10
